@@ -1,3 +1,5 @@
+> **Not maintained.** This is an unmodified fork of [Zereth0812/r3live](https://github.com/Zereth0812/r3live) (ROS 2 port by yajiang) of [hku-mars/r3live](https://github.com/hku-mars/r3live). It carries no changes by the fork owner and is archived for reference only; see the upstream repositories for the current code and licence terms.
+
 # R3LIVE
 ## A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package
 
